@@ -1,0 +1,5 @@
+.itemListContainer {
+  /*display: inline-flex;*/
+  clear: both;
+  text-align: justify;
+}

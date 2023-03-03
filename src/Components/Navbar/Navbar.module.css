@@ -1,0 +1,8 @@
+.navBarMenuLinks {
+  float: left;
+}
+
+a {
+  text-decoration: none;
+  margin: 2em;
+}
